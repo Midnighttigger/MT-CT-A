@@ -1,0 +1,41 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "",
+        "extra": [
+          {
+            "translate": "Bare Bones %1$s for MT Packs %2$s",
+            "with": [
+              {
+                "text": "1.0.0",
+                "color": "green"
+              },
+              {
+                "text": "1.12+",
+                "color": "aqua"
+              }
+            ],
+            "clickEvent": {
+              "action": "open_url",
+              "value": "https://github.com/Midnighttigger/MT-CT-A"
+            },
+            "hoverEvent": {
+              "action": "show_text",
+              "value": "https://github.com/Midnighttigger/MT-CT-A"
+            },
+            "color": "dark_red"
+          }
+        ]
+      }
+    ],
+    "pack_format": 3,
+    "supported_formats": {"min_inclusive": 3, "max_inclusive": 64},
+    "min_format": 3,
+    "max_format": 150
+  },
+  "fusion": {
+    "min_version": "1.3.13",
+    "overrides_folder": "fusion"
+  }
+}

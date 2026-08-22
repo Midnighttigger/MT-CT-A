@@ -1,0 +1,36 @@
+{
+  "id": "mt-ct-a",
+  "changelog": "Updated for 1.21.8\nThe crossbow now supports spectral arrows, tipped arrows, and multishot showing three arrows",
+  "version": "F64x_Fusion_1.0.0",
+  "name": "Faithful64x Addon",
+  "versions": {
+    "curseforge": {
+      "type": "after",
+      "version": "1.14",
+      "snapshots": false
+    },
+    "planetminecraft": {
+      "type": "latest"
+    },
+    "modrinth": {
+      "type": "after",
+      "version": "1.14",
+      "snapshots": false
+    }
+  },
+  "dependencies": {
+    "curseforge": [
+      {
+        "slug": "faithful-64x",
+        "projectID": "419139",
+        "type": "requiredDependency"
+      }
+    ],
+    "modrinth": [
+      {
+        "project_id": "r4GILswZ",
+        "dependency_type": "required"
+      }
+    ]
+  }
+}

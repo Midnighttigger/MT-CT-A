@@ -1,0 +1,126 @@
+{
+  "config": {
+    "id": "mt-ct-a",
+    "name": "Midnighttigger's Connected Textures Addons",
+    "summary": "Addons such as Clear Glass to Midnighttigger's Default Connected Textures/Better Grass & Snow",
+    "description": [
+      "Addons such as Clear Glass to Midnighttigger's Default Connected Textures and Better Grass & Snow"
+    ],
+    "optifine": false,
+    "video": false,
+    "github": "https://github.com/Midnighttigger/MT-CT-A",
+    "version": "1.0.0",
+    "versions": {
+      "curseforge": {
+        "type": "after",
+        "version": "1.12"
+      },
+      "planetminecraft": {
+        "type": "exact",
+        "version": "1.21.11"
+      },
+      "modrinth": {
+        "type": "after",
+        "version": "1.12"
+      }
+    },
+    "images": [
+      {
+        "name": "Loading Order",
+        "description": "The addon's must be above Main Packs in order for the addons to work",
+        "file": "loading_order",
+        "embed": true,
+        "featured": true
+      },
+      {
+        "name": "Clear Glass Addon",
+        "description": "Clear Glass Addon",
+        "file": "clear_glass_addon",
+        "embed": true
+      }
+    ],
+    "curseforge": {
+      "mainCategory": "16x",
+      "additionalCategories": {
+        "animated": false,
+        "dataPacks": false,
+        "fontPacks": false,
+        "medieval": false,
+        "modSupport": true,
+        "modern": false,
+        "photoRealistic": false,
+        "steampunk": false,
+        "traditional": false,
+        "miscellaneous": false
+      },
+      "license": "All Rights Reserved"
+    },
+    "planetminecraft": {
+      "category": "Other",
+      "resolution": 16,
+      "progress": 100,
+      "credit": "",
+      "modifies": {
+        "armor": 0,
+        "art": 0,
+        "environment": 0,
+        "font": 0,
+        "gui": 0,
+        "items": 0,
+        "misc": 0,
+        "mobs": 0,
+        "particles": 0,
+        "terrain": 0,
+        "audio": 0,
+        "models": 0
+      },
+      "tags": []
+    },
+    "modrinth": {
+      "tags": {
+        "8x-": 0,
+        "16x": "featured",
+        "32x": 1,
+        "48x": 0,
+        "64x": 1,
+        "128x": 0,
+        "256x": 0,
+        "512x+": 0,
+        "audio": 0,
+        "blocks": "featured",
+        "combat": 0,
+        "core-shaders": 0,
+        "cursed": 0,
+        "decoration": "featured",
+        "entities": 0,
+        "environment": 0,
+        "equipment": 0,
+        "fonts": 0,
+        "gui": 0,
+        "items": 0,
+        "locale": 0,
+        "modded": 0,
+        "models": 0,
+        "realistic": 0,
+        "simplistic": 0,
+        "themed": 0,
+        "tweaks": 0,
+        "utility": 0,
+        "vanilla-like": true
+      },
+      "license": "All Rights Reserved/No License"
+    }
+  },
+  "curseforge": {
+    "id": 939242,
+    "slug": "mt-ct-a"
+  },
+  "planetminecraft": {
+    "id": null,
+    "slug": null
+  },
+  "modrinth": {
+    "id": "nVen30Ks",
+    "slug": "mt-ct-a"
+  }
+}

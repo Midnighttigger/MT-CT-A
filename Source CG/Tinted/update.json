@@ -1,0 +1,36 @@
+{
+  "id": "mt-ct-a",
+  "changelog": "Updated for 1.21.8\nThe crossbow now supports spectral arrows, tipped arrows, and multishot showing three arrows",
+  "version": "CG_Fusion_1.0.0",
+  "name": "Clear Glass 'Tinted' Addon",
+  "versions": {
+    "curseforge": {
+      "type": "after",
+      "version": "1.17",
+      "snapshots": false
+    },
+    "planetminecraft": {
+      "type": "latest"
+    },
+    "modrinth": {
+      "type": "after",
+      "version": "1.17",
+      "snapshots": false
+    }
+  },
+  "dependencies": {
+    "curseforge": [
+      {
+        "slug": "fusion-connected-textures",
+        "projectID": "854949",
+        "type": "embeddedLibrary"
+      }
+    ],
+    "modrinth": [
+      {
+        "project_id": "p19vrgc2",
+        "dependency_type": "embedded"
+      }
+    ]
+  }
+}

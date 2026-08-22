@@ -1,0 +1,10 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "textures": {
+    "side_alt": "minecraft:block/mt-ct/dirt_path_side_alt"
+  },
+  "parent": "minecraft:block/dirt_path",
+  "ambient_occlusion": true,
+  "shade": true
+}

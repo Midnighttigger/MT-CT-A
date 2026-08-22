@@ -1,0 +1,36 @@
+{
+  "id": "mt-ct-a",
+  "changelog": "Updated for 1.21.8\nThe crossbow now supports spectral arrows, tipped arrows, and multishot showing three arrows",
+  "version": "BB_Fusion_1.0.0",
+  "name": "Bare Bones Addon",
+  "versions": {
+    "curseforge": {
+      "type": "after",
+      "version": "1.12",
+      "snapshots": false
+    },
+    "planetminecraft": {
+      "type": "latest"
+    },
+    "modrinth": {
+      "type": "after",
+      "version": "1.12",
+      "snapshots": false
+    }
+  },
+  "dependencies": {
+    "curseforge": [
+      {
+        "slug": "bb",
+        "projectID": "327786",
+        "type": "requiredDependency"
+      }
+    ],
+    "modrinth": [
+      {
+        "project_id": "rox3U8B6",
+        "dependency_type": "required"
+      }
+    ]
+  }
+}
