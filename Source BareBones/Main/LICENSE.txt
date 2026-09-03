@@ -1,0 +1,8 @@
+All rights reserved unless explicitly stated.
+
+All Textures are derived from the offical Bare Bones pack https://modrinth.com/resourcepack/bare-bones https://www.curseforge.com/minecraft/texture-packs/bb
+
+This Pack falls under their terms of use for addon packs:
+
+You are allowed to alter Bare Bones as long as it's not distributed, please keep these to yourself. Do not reupload any instance of the Bare Bones texture pack. If you want to create addons for Bare Bones, make sure that no unnecessary textures exist in the addon texture pack, only then are you allowed to upload it.
+
