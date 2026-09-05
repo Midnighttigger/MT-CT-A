@@ -1,0 +1,3 @@
+(cd ./../../PackUploader/data/update && rm "update.json" "pack.zip") ; cp -i "./Jappa/update.json" "./../../PackUploader/data/update" && (cd ./Jappa && zip -r - .)>"./../../PackUploader/data/update/pack.zip"
+
+(cd ./../../PackUploader/data/update && rm "update.json" "pack.zip") ; cp -i "./Main/update.json" "./../../PackUploader/data/update" && (cd ./Main && zip -r - .)>"./../../PackUploader/data/update/pack.zip"

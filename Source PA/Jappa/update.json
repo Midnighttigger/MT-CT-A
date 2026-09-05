@@ -1,8 +1,8 @@
 {
   "id": "mt-ct-a",
-  "changelog": "Updated for Fusion 1.3+\nAddons now support Better Grass and Snow\nNew Version and Directory Format",
+  "changelog": "<h2>V1.0.0</h2>\n<li>Updated for Fusion 1.3+</li>\n<li>Addons now support Better Grass and Snow</li>\n<li>New Version and Directory Format</li>\n<li>new 'Jappa' Addon for 1.12 PA</li>",
   "version": "PA_Fusion_1.0.0",
-  "name": "Programmer Art 'Jappa' Addon",
+  "name": "MT & Programmer Art 'Jappa' Addon",
   "versions": {
     "curseforge": {
       "type": "range",
@@ -24,14 +24,32 @@
     "curseforge": [
       {
         "slug": "fusion-connected-textures",
-        "projectID": "854949",
+        "projectID": 854949,
         "type": "embeddedLibrary"
+      },
+      {
+        "slug": "mt-ct-d",
+        "projectID": 885553,
+        "type": "optionalDependency"
+      },
+      {
+        "slug": "mt-bgs",
+        "projectID": 1185585,
+        "type": "optionalDependency"
       }
     ],
     "modrinth": [
       {
         "project_id": "p19vrgc2",
         "dependency_type": "embedded"
+      },
+      {
+        "project_id": "TjOXlt9Y",
+        "dependency_type": "optional"
+      },
+      {
+        "project_id": "tO3CWuz1",
+        "dependency_type": "optional"
       }
     ]
   }

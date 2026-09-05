@@ -9,19 +9,20 @@
     "optifine": false,
     "video": false,
     "github": "https://github.com/Midnighttigger/MT-CT-A",
-    "version": "1.0.0",
+    "version": "CG_Fusion_1.0.0",
     "versions": {
       "curseforge": {
         "type": "after",
-        "version": "1.12"
+        "version": "1.12",
+        "snapshots": false
       },
       "planetminecraft": {
-        "type": "exact",
-        "version": "1.21.11"
+        "type": "latest"
       },
       "modrinth": {
         "type": "after",
-        "version": "1.12"
+        "version": "1.12",
+        "snapshots": false
       }
     },
     "images": [
@@ -53,7 +54,9 @@
         "traditional": false,
         "miscellaneous": false
       },
-      "license": "All Rights Reserved"
+      "license": "All Rights Reserved",
+      "comments": true,
+      "externalDistribution": true
     },
     "planetminecraft": {
       "category": "Other",
