@@ -27,16 +27,40 @@
     },
     "images": [
       {
-        "name": "Loading Order",
-        "description": "The addon's must be above Main Packs in order for the addons to work",
-        "file": "loading_order",
-        "embed": true,
-        "featured": true
-      },
-      {
         "name": "Clear Glass Addon",
         "description": "Clear Glass Addon",
         "file": "clear_glass_addon",
+        "embed": true
+      },
+      {
+        "name": "Programmer Art Addon",
+        "description": "Programmer Art Addon",
+        "file": "ProgrammerArt_addon",
+        "featured": true,
+        "embed": true
+      },
+      {
+        "name": "MT & Bare Bones Addon",
+        "description": "MT & Bare Bones Addon",
+        "file": "BareBones_addon",
+        "embed": true
+      },
+      {
+        "name": "MT & Faithful32x Addon",
+        "description": "MT & Faithful32x Addon",
+        "file": "F32x_addon",
+        "embed": true
+      },
+      {
+        "name": "MT & Faithful64x Addon",
+        "description": "MT & Faithful64x Addon",
+        "file": "F64x_addon",
+        "embed": true
+      },
+      {
+        "name": "Loading Order",
+        "description": "The addon's must be above Main Packs in order for the addons to work",
+        "file": "loading_order",
         "embed": true
       }
     ],
